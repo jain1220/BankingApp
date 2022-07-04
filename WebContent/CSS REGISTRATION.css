@@ -1,0 +1,39 @@
+body{
+    background-color:blueviolet;
+    margin-left: 450px;
+   
+}
+h1{
+    color: azure;
+    align-items: center;
+    margin-left: 150px;
+    
+}
+
+form{
+    margin-left: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+input {
+    margin-left: 120px;
+}
+img{
+    margin-right: 850PX;
+    height: 80px;
+    border-radius: 50%;
+}
+button{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: hand;
+    color: brown;
+    border-style:dotted;
+    
+}
+a{
+    font-size: larger;
+    cursor: hand;
+    border-style: dotted;
+    color:antiquewhite;
+}
